@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Kavivanar', cursive;
+}
+
+.center {
+  font-size: 50px;
+  font-weight: bold;
+
+}
+
+.letters p {
+font-size: 40px;
+}
